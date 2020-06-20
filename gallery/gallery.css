@@ -1,0 +1,8 @@
+.main {
+  background: linear-gradient(to top, rgba(80, 68, 18, 0.6) 10%, transparent),
+    url("../images/grass.jpg") left 10% bottom 70% / cover no-repeat border-box,
+    #ff1b68;
+  height: calc(100vh - 82.09px - 80px);
+  padding: 20px 0;
+  position: relative;
+}

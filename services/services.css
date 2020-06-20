@@ -1,0 +1,21 @@
+.main {
+  background: linear-gradient(to top, rgba(80, 68, 18, 0.6) 10%, transparent),
+    url("../images/wood.jpg") left 10% bottom 70% / cover no-repeat border-box,
+    #ff1b68;
+  height: calc(100vh - 82.09px - 80px);
+  padding: 20px 0;
+  position: relative;
+}
+
+.services__title {
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  display: inline-block;
+  padding: 5px 10px;
+}
+
+.services__description {
+  text-decoration: none;
+  display: flex;
+  flex-wrap: wrap;
+}
